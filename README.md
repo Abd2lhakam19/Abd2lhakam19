@@ -30,12 +30,12 @@ const abdelhakam = {
     {
       company:  "IT-ZAIN",
       title:    "Frontend Developer",
-      period:   "Jan 2025 → Mar 2025",
+      period:   "Jan 2026 → Mar 2026",
       work:     "Frontend development of production-level applications",
     },
     {
       company:  "IT-ZAIN",
-      title:    "Software Engineer",
+      title:    "Frontend Developer",
       period:   "Jul 2024 → Sep 2024",
       work:     "Full SDLC participation, corporate workflows & clean code",
     },
