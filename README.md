@@ -117,19 +117,8 @@ const abdelhakam = {
 
 </div>
 
----
 
-## 📫 Let's Connect
 
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [abdelhakam21](https://www.linkedin.com/in/abdelhakam21/) |
-| 📧 Email | [mahmoudabdelhakam622@gmail.com](mailto:mahmoudabdelhakam622@gmail.com) |
-| 🐙 GitHub | [Abd2lhakam19](https://github.com/Abdelhakam23) |
-
-</div>
 
 ---
 
