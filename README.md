@@ -22,7 +22,7 @@
 ```typescript
 const abdelhakam = {
   name:        "Mahmoud Abdelhakam",
-  role:        "Flutter & Frontend Developer",
+  role:        "Frontend Developer & Flutter",
   location:    "Egypt 🇪🇬",
   education:   "B.Sc Computer Science — Sadat City University (GPA: 3.21)",
 
@@ -47,8 +47,7 @@ const abdelhakam = {
     },
   ],
 
-  focus:             ["Flutter", "Next.js", "React"],
-  currentlyBuilding: "Full-Stack Blog Platform (Next.js + Supabase)",
+  focus:             ["React", "Next.js", "Flutter"],
   openToWork:        true,
 };
 ```
@@ -56,15 +55,6 @@ const abdelhakam = {
 ---
 
 ## 🛠️ Tech Stack
-
-**📱 Mobile Development**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cubit](https://img.shields.io/badge/Cubit-06b6d4?style=for-the-badge&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-8b5cf6?style=for-the-badge&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **🌐 Frontend Development**
 
@@ -75,6 +65,17 @@ const abdelhakam = {
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+**📱 Mobile Development**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cubit](https://img.shields.io/badge/Cubit-06b6d4?style=for-the-badge&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-8b5cf6?style=for-the-badge&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **💻 Core Programming**
 
